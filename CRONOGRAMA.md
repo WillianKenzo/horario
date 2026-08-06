@@ -24,7 +24,7 @@
 | **Terça**    | Atividade do Marcelo         | Atividade do Marcelo               |  Atividade do Marcelo        |  Atividade do Marcelo         | ✅  |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           |  Relatório do Pensamento + relatório semanal | Finalizar relatório semanal | 🔄  |
 | **Quinta**   | Finalizar cronograma         | Estudar Java                       |  Estudar Java                |  Estudar Java                 | 🔄  |
-| **Sexta**    | Estudar Java                 | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜  |
+| **Sexta**    | Realizar UCD's               | Realizar UCD's                     |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜  |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Planos mudados &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -54,7 +54,7 @@
 - **Notas:**
 
 ### Sexta-feira — 07/08
-- **14h – 16:30** → Realizar curso da Google
+- **14h – 16:30** → Estudar as UCD's
 - **16:30 – 18h** → Palestra (PROTEÇÃO DE ENERGIA PARA INFRAESTRUTURAS DE TI)
 - **Notas:** 
 
@@ -62,11 +62,11 @@
 
 ## ✅ Checklist da Semana
 
-- [✅] Participar do Londrinense Tech e fazer o relatório
-- [ ] Participar do Pensamento Computacional e fazer o relatório
+- [x] Participar do Londrinense Tech e fazer o relatório
+- [x] Participar do Pensamento Computacional e fazer o relatório
 - [ ] Participar do Grupo de IA
 - [ ] Realizar curso da Google
-- [ ] Criar cronograma semanal
+- [x] Criar cronograma semanal
 - [ ] Revisar o que foi feito no final da semana
 - [ ] Planejar a próxima semana
 
