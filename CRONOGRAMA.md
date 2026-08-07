@@ -12,6 +12,7 @@
 - Participar do Grupo de IA (Sexta) > **cancelado devido à uma palestra no mesmo horário**
 - Entregar os relatórios das aulas
 - Estudar java
+- Fazer as UCD's
 
 ---
 
@@ -65,6 +66,7 @@
 - ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ✅ Participar do Grupo de IA (sexta-feira)
 - ✅ Estudar java
+- ✅ Fazer as UCD's
 
 ---
 
