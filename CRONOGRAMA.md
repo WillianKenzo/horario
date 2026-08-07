@@ -22,7 +22,7 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Marcelo         | ✅  |
 | **Terça**    | Atividade do Marcelo         | Atividade do Marcelo               |  Atividade do Marcelo        |  Atividade do Marcelo         | ✅  |
-| **Quarta**   | Pensamento Computacional (início 14h15    | Pensamento Computacional           |  Relatório do Pensamento + relatório semanal | Estudar Java  | ✅  |
+| **Quarta**   | Pensamento Computacional (início 14h15)    | Pensamento Computacional           |  Relatório do Pensamento + relatório semanal | Estudar Java  | ✅  |
 | **Quinta**   | Finalizar cronograma         | Estudar Java                       |  Estudar Java                |  Estudar Java                 | ✅  |
 | **Sexta**    | Realizar UCD's               | Realizar UCD's                     |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ✅  |
 
