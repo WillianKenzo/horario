@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **06/08/2026**  
+> Atualizado em: **07/08/2026**  
 > Semana: **03/08 → 07/08/2026**
 
 ---
@@ -76,4 +76,4 @@
 
 ---
 
-*Última atualização: 06/08/2026*
+*Última atualização: 07/08/2026*
