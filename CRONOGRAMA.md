@@ -7,13 +7,12 @@
 
 ## 🎯 Objetivos da Semana
 
-- [✅] Participar do LondrinenseTech (Segunda)
-- [✅] Participar do Pensamento Computacional (Quarta)
-- [❌] Participar do Grupo de IA (Sexta) > **cancelado devido à uma palestra no mesmo horário**
-- [✅] Entregar os relatórios das aulas
-- [ ] Realizar curso da Google
-- [✅] Criar cronograma semanal
-
+- ✅ Participar do Londrinense Tech (Segunda)
+- ✅ Participar do Pensamento Computacional (Quarta)
+- ✅ Participar do Grupo de IA (Sexta) > **cancelado devido à uma palestra no mesmo horário**
+- ✅ Entregar os relatórios das aulas
+- ⬜ Estudar java
+- ✅ Criar cronograma semanal
 ---
 
 ## 📆 Cronograma de afazeres (14h – 18h)
@@ -22,60 +21,57 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | Londrinense Tech (início)    | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Marcelo         | ✅  |
 | **Terça**    | Atividade do Marcelo         | Atividade do Marcelo               |  Atividade do Marcelo        |  Atividade do Marcelo         | ✅  |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           |  Relatório do Pensamento + relatório semanal | Finalizar relatório semanal | 🔄  |
-| **Quinta**   | Finalizar cronograma         | Estudar Java                       |  Estudar Java                |  Estudar Java                 | 🔄  |
-| **Sexta**    | Realizar UCD's               | Realizar UCD's                     |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜  |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           |  Relatório do Pensamento + relatório semanal | Estudar Java  | ✅  |
+| **Quinta**   | Finalizar cronograma         | Estudar Java                       |  Estudar Java                |  Estudar Java                 | ✅  |
+| **Sexta**    | Realizar UCD's               | Realizar UCD's                     |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ✅  |
 
-> **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Planos mudados &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
+> **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
 ---
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
 ### Segunda-feira — 03/08
-- **14h – 15h45** → Londrinense Tech
-- **15h45 – 16h** → Preparei o relatório da aula
+- **14h – 15h45** → Monitor no Londrinense Tech
+- **15h45 – 16h** → Preparei o relatório da aula do Londrinense Tech
 - **16h20 – 17h** → Criei meu cronograma semanal
 - **17h – 18h** → Realizei atividades do prof. Marcelo
-- **Notas: Hoje, participei como monitor no Londrinense Tech, elaborei meu relatório para o portfólio, criei e comecei a organizar meu cronograma semanal(mas não postei), e fiz um pouco de uma atividade do prof. Marcelo → https://docs.google.com/document/d/18W5wFySmUEzBoweji6_7s77rlsxf_osxBHg3TTkyWps/edit?usp=sharing.** 
+- **Notas: Atividade do prof. Marcelo → https://docs.google.com/document/d/18W5wFySmUEzBoweji6_7s77rlsxf_osxBHg3TTkyWps/edit?usp=sharing.** 
 
 ### Terça-feira — 04/08
-- **14h – 18h**  → Realizei Atividade do Marcelo
-- **Notas: Hoje eu fiz mais uma atividade do prof. Marcelo → https://docs.google.com/document/d/1dtwEQEmHBHyFUTHRd6IwFYpeRARhr7yz6UbHQqRmG3c/edit?usp=sharing.**
+- **14h – 18h**  → Realizei outra atividade do Marcelo
+- **Notas: Atividade do prof. Marcelo → https://docs.google.com/document/d/1dtwEQEmHBHyFUTHRd6IwFYpeRARhr7yz6UbHQqRmG3c/edit?usp=sharing.**
 
 ### Quarta-feira — 05/08
 - **14h – 16h** → Pensamento Computacional
 - **16h – 18h** → Terminei uma atividade do prof. Marcelo
-- **Notas: Hoje, participei como monitor do pensamento computacional, e logo após comecei a terminar atividades pendentes de lógica do prof. Marcelo: https://docs.google.com/document/d/1czZEIYXUmvQUvO6aHTl1rC1M5pNgnCA51EXRMUnMjsc/edit?usp=sharing** 
+- **Notas: Atividade do prof. Marcelo: https://docs.google.com/document/d/1czZEIYXUmvQUvO6aHTl1rC1M5pNgnCA51EXRMUnMjsc/edit?usp=sharing** 
 
 ### Quinta-feira — 06/08
 - **14h – 17h** → Finalizei algumas pendências no meu cronograma e postei ele.
 - **17h – 18h** → Fiz o relatório que não pude fazer na quarta e também o relatório semanal.
-- **Notas:**
+- **Notas: Como tive que fazer algumas tarefas mais urgentes, acabei não estudando Java.**
 
 ### Sexta-feira — 07/08
-- **14h – 16:30** → Estudar as UCD's
+- **14h – 16:30** → Fazer as UCD's
 - **16:30 – 18h** → Palestra (PROTEÇÃO DE ENERGIA PARA INFRAESTRUTURAS DE TI)
-- **Notas:** 
+- **Notas: O grupo recebeu um sócio da Equinorte para uma palestra, então o grupo de IA não ocorreu como de costume** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- [x] Participar do Londrinense Tech e fazer o relatório
-- [x] Participar do Pensamento Computacional e fazer o relatório
-- [ ] Participar do Grupo de IA
-- [ ] Realizar curso da Google
-- [x] Criar cronograma semanal
-- [ ] Revisar o que foi feito no final da semana
-- [ ] Planejar a próxima semana
+- ✅ Participar do Londrinense Tech e fazer o relatório
+- ✅ Participar do Pensamento Computacional e fazer o relatório
+- ✅ Participar do Grupo de IA
+- ✅ Criar cronograma semanal
 
 ---
 
 ## 📌 Observações
 
-- **Quarta:**Por ter que fazer uma atividade do Marcelo, não consegui fazer o relatório logo após o Pensamento Computacional.
--  
+- **Quarta**:Por ter que fazer uma atividade do Marcelo, não consegui fazer o relatório logo após o Pensamento Computacional no mesmo dia.
+-  **Sexta**: Devido à uma palestra, o grupo de IA não aconteceu como de costume.
 -  
 
 ---
