@@ -7,12 +7,12 @@
 
 ## 🎯 Objetivos da Semana
 
-- ✅ Participar do Londrinense Tech (Segunda)
-- ✅ Participar do Pensamento Computacional (Quarta)
-- ✅ Participar do Grupo de IA (Sexta) > **cancelado devido à uma palestra no mesmo horário**
-- ✅ Entregar os relatórios das aulas
-- ⬜ Estudar java
-- ✅ Criar cronograma semanal
+- Participar do Londrinense Tech (Segunda)
+- Participar do Pensamento Computacional (Quarta)
+- Participar do Grupo de IA (Sexta) > **cancelado devido à uma palestra no mesmo horário**
+- Entregar os relatórios das aulas
+- Estudar java
+
 ---
 
 ## 📆 Cronograma de afazeres (14h – 18h)
@@ -61,10 +61,10 @@
 
 ## ✅ Checklist da Semana
 
-- ✅ Participar do Londrinense Tech e fazer o relatório
-- ✅ Participar do Pensamento Computacional e fazer o relatório
-- ✅ Participar do Grupo de IA
-- ✅ Criar cronograma semanal
+- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
+- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ✅ Participar do Grupo de IA (sexta-feira)
+- ✅ Estudar java
 
 ---
 
@@ -72,7 +72,7 @@
 
 - **Quarta**:Por ter que fazer uma atividade do Marcelo, não consegui fazer o relatório logo após o Pensamento Computacional no mesmo dia.
 -  **Sexta**: Devido à uma palestra, o grupo de IA não aconteceu como de costume.
--  
+-  Essa semana os meus estudos de Java envolveram as atividades passadas pelo prof. Marcelo
 
 ---
 
