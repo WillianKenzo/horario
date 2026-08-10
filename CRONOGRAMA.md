@@ -20,7 +20,7 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Marcelo    | ⬜ |
+| **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Marcelo    | ✅ |
 | **Terça**    | Estudar Java                 | Estudar Java                    | Fazer o curso do google skills | Fazer o curso do google skills | ⬜ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ⬜ |
 | **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ⬜ |
