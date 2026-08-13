@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **12/08/2026**  
+> Atualizado em: **13/08/2026**  
 > Semana: **10/08 → 14/08/2026**
 
 ---
@@ -23,7 +23,7 @@
 | **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Marcelo    | ✅ |
 | **Terça**    | Estudar Java                 | Estudar Java                    | Fazer o curso do google skills | Fazer o curso do google skills | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ✅ |
-| **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ⬜ |
+| **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ✅ |
 | **Sexta**    | Realizar UCD's               | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -52,9 +52,8 @@
 - **Notas: Atividade do prof. Marcelo → https://docs.google.com/document/d/1zrYXt31XZOnjcz-n3gMjDOGtvFdMCuEUYAcn88J2ZPo/edit?usp=sharing** 
 
 ### Quinta-feira — 13/08
-- **14h – 17h** → 
-- **17h – 18h** →
-- **Notas:**
+- **14h – 18h** → Atividade do  prof. Marcelo
+- **Notas:Acabei ficando a tarde toda fazendo a atividade mas não consegui terminá-la**
 
 ### Sexta-feira — 14/08
 - **14h – 16:30** → 
@@ -68,7 +67,7 @@
 - ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Estudar java
+- ⬜ Estudar Java
 - ⬜ Terminar as UCD's
 - ⬜ Fazer o curso do google skills
 
@@ -82,4 +81,4 @@
 
 ---
 
-*Última atualização: 12/08/2026*
+*Última atualização: 13/08/2026*
