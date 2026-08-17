@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **13/08/2026**  
+> Atualizado em: **14/08/2026**  
 > Semana: **10/08 → 14/08/2026**
 
 ---
@@ -24,7 +24,7 @@
 | **Terça**    | Estudar Java                 | Estudar Java                    | Fazer o curso do google skills | Fazer o curso do google skills | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ✅ |
 | **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ✅ |
-| **Sexta**    | Realizar UCD's               | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜ |
+| **Sexta**    | Realizar UCD's               | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ✅ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -56,8 +56,8 @@
 - **Notas:Acabei ficando a tarde toda fazendo a atividade mas não consegui terminá-la**
 
 ### Sexta-feira — 14/08
-- **14h – 16:30** → 
-- **16:30 – 18h** → 
+- **14h – 15h** → Terminei as UCD's 
+- **15h – 18h** → Fiz atividades do prof. Marcelo  
 - **Notas:** 
 
 ---
@@ -66,19 +66,19 @@
 
 - ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Estudar Java
-- ⬜ Terminar as UCD's
-- ⬜ Fazer o curso do google skills
+- ❌ Participar do Grupo de IA (sexta-feira)
+- ✅ Estudar Java
+- ✅ Terminar as UCD's
+- ❌ Fazer o curso do google skills
 
 ---
 
 ## 📌 Observações
 
 - Na terça não pude seguir o cronograma como planejado pois fui ver a abertura da incubadora
--  
+- Por estar se reestruturando pela saída do prof. Ricado, não houve grupo de IA nessa semana
 -  
 
 ---
 
-*Última atualização: 13/08/2026*
+*Última atualização: 14/08/2026*
