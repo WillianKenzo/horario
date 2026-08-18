@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **17/08/2026**  
+> Atualizado em: **18/08/2026**  
 > Semana: **17/08 → 21/08/2026**
 
 ---
@@ -20,7 +20,7 @@
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Guilherme  | ✅ |
-| **Terça**    | Estudar Java                 | Estudar Java                    | Fazer o curso do google skills | Fazer o curso do google skills | ⬜ |
+| **Terça**    | Estudar Java                 | Estudar Java                    | Fazer o curso do google skills | Fazer o curso do google skills | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ⬜ |
 | **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ⬜ |
 | **Sexta**    | Estudar Java                 | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜
@@ -40,9 +40,7 @@
 - **Notas:** 
 
 ### Terça-feira — 18/08
-- **14h – 15h30** → 
-- **15h30 - 17h20** →
-- **17h20 - 18h** →
+- **14h – 18h** → Hoje acabei só fazendo atividades do Guilherme e acabei não estudando java ou fazendo o curso do google
 - **Notas:** 
 
 ### Quarta-feira — 19/08
@@ -80,4 +78,4 @@
 
 ---
 
-*Última atualização: 17/08/2026*
+*Última atualização: 18/08/2026*
