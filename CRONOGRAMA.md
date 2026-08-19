@@ -32,7 +32,7 @@
 ## 📝 Detalhamento Diário (14h – 18h)
 
 ### Segunda-feira — 17/08
-- **14h – 15h45** → Londrinense Tech
+- **14h – 15h45** → Monitor no Londrinense Tech
 - **15h45 – 16h** → Relatório do Londrinense Tech
 - **16h20 – 17h** → Fazer o cronograma semanal
 - **17h – 18h** → Atividade de matrizes do prof. Guilherme
@@ -77,4 +77,4 @@
 
 ---
 
-*Última atualização: 18/08/2026*
+*Última atualização: 19/08/2026*
