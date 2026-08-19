@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **18/08/2026**  
+> Atualizado em: **19/08/2026**  
 > Semana: **17/08 → 21/08/2026**
 
 ---
@@ -21,10 +21,9 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Guilherme  | ✅ |
 | **Terça**    | Estudar Java                 | Estudar Java                    | Fazer o curso do google skills | Fazer o curso do google skills | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ✅ |
 | **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ⬜ |
-| **Sexta**    | Estudar Java                 | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜
-|
+| **Sexta**    | Estudar Java                 | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -44,9 +43,9 @@
 - **Notas:** 
 
 ### Quarta-feira — 19/08
-- **14h – 16h** → 
-- **16h – 16h40** → 
-- **16h40 - 18h** → 
+- **14h – 16h** → Monitor no pensamento computacional
+- **16h – 16h40** → Relátorio da aula e relatório semanal
+- **16h40 - 18h** → Fazendo atividade do guilherme
 - **Notas:** 
 
 ### Quinta-feira — 20/08
@@ -63,7 +62,7 @@
 ## ✅ Checklist da Semana
 
 - ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
 - ⬜ Estudar Java
 - ⬜ Fazer o curso do google skills
