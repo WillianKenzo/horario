@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **19/08/2026**  
+> Atualizado em: **20/08/2026**  
 > Semana: **17/08 → 21/08/2026**
 
 ---
@@ -49,8 +49,8 @@
 - **Notas:** 
 
 ### Quinta-feira — 20/08
-- **14h – 16h** → Estudando matrizes
-- **16h - 18h** → estudando RAG por um vídeo
+- **14h – 16h** → Acabei por estudar matrizes ao invés de Java
+- **16h - 18h** → Acabei não fazendo o curso do google skills pois decidi estudar RAG através de um vídeo
 - **Notas: Link do vídeo → https://www.youtube.com/watch?v=swvzKSOEluc**
 
 ### Sexta-feira — 21/08
@@ -78,4 +78,4 @@
 
 ---
 
-*Última atualização: 19/08/2026*
+*Última atualização: 20/08/2026*
