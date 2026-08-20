@@ -22,7 +22,7 @@
 | **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Guilherme  | ✅ |
 | **Terça**    | Estudar Java                 | Estudar Java                    | Fazer o curso do google skills | Fazer o curso do google skills | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ✅ |
-| **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ⬜ |
+| **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ✅ |
 | **Sexta**    | Estudar Java                 | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -44,13 +44,14 @@
 
 ### Quarta-feira — 19/08
 - **14h – 16h** → Monitor no pensamento computacional
-- **16h – 16h40** → Relátorio da aula e relatório semanal
-- **16h40 - 18h** → Fazendo atividade do guilherme
+- **16h – 16h40** → Relatório da aula e relatório semanal
+- **16h40 - 18h** → Fazendo atividade do prof. Guilherme
 - **Notas:** 
 
 ### Quinta-feira — 20/08
-- **14h – 18h** →
-- **Notas:**
+- **14h – 16h** → Estudando matrizes
+- **16h - 18h** → estudando RAG por um vídeo
+- **Notas: Link do vídeo → https://www.youtube.com/watch?v=swvzKSOEluc**
 
 ### Sexta-feira — 21/08
 - **14h – 15h** → 
