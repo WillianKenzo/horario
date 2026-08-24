@@ -1,7 +1,7 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **20/08/2026**  
-> Semana: **17/08 → 21/08/2026**
+> Atualizado em: **24/08/2026**  
+> Semana: **24/08 → 28/08/2026**
 
 ---
 
@@ -19,11 +19,11 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Guilherme  | ✅ |
-| **Terça**    | Estudar Java                 | Estudar Java                    | Fazer o curso do google skills | Fazer o curso do google skills | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ✅ |
-| **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ✅ |
-| **Sexta**    | Estudar Java                 | Estudar Java                       |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜ |
+| **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Guilherme  | ⬜ |
+| **Terça**    | Estudar Java                 | Estudar Java                    | Estudar Java                   | Fazer o curso do google skills | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ⬜ |
+| **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ⬜ |
+| **Sexta**    | Estudar RAG                  | Estudar sobre RAG                  |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -31,29 +31,29 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Segunda-feira — 17/08
+### Segunda-feira — 24/08
 - **14h – 15h45** → Monitor no Londrinense Tech
-- **15h45 – 16h** → Relatório do Londrinense Tech
-- **16h20 – 17h** → Fazer o cronograma semanal
-- **17h – 18h** → Atividade de matrizes do prof. Guilherme
+- **16h - 16h35** → Reunião com o Koga sobre o Londrinense Tech
+- **16h35 – 17h** → Relatório do Londrinense Tech
+- **17h – 18h** → Atividade do Guilherme
 - **Notas:** 
 
-### Terça-feira — 18/08
-- **14h – 18h** → Hoje acabei só fazendo atividades do Guilherme e acabei não estudando java ou fazendo o curso do google
+### Terça-feira — 25/08
+- **14h – 18h** → 
 - **Notas:** 
 
-### Quarta-feira — 19/08
-- **14h – 16h** → Monitor no pensamento computacional
-- **16h – 16h40** → Relatório da aula e relatório semanal
-- **16h40 - 18h** → Fazendo atividade do prof. Guilherme
+### Quarta-feira — 26/08
+- **14h – 16h** → 
+- **16h – 16h40** →
+- **16h40 - 18h** →
 - **Notas:** 
 
-### Quinta-feira — 20/08
-- **14h – 16h** → Acabei por estudar matrizes ao invés de Java
-- **16h - 18h** → Acabei não fazendo o curso do google skills pois decidi estudar RAG através de um vídeo
-- **Notas: Link do vídeo → https://www.youtube.com/watch?v=swvzKSOEluc**
+### Quinta-feira — 27/08
+- **14h – 16h** →
+- **16h - 18h** →
+- **Notas:**
 
-### Sexta-feira — 21/08
+### Sexta-feira — 28/08
 - **14h – 15h** → 
 - **15h – 18h** →
 - **Notas:** 
@@ -62,8 +62,8 @@
 
 ## ✅ Checklist da Semana
 
-- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ⬜ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
+- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
 - ⬜ Estudar Java
 - ⬜ Fazer o curso do google skills
@@ -78,4 +78,4 @@
 
 ---
 
-*Última atualização: 20/08/2026*
+*Última atualização: 24/08/2026*
