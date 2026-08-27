@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **26/08/2026**  
+> Atualizado em: **27/08/2026**  
 > Semana: **24/08 → 28/08/2026**
 
 ---
@@ -22,7 +22,7 @@
 | **Segunda**  | Londrinense Tech (início 14h15)   | Londrinense Tech(15h45 fim) + Relatório| Criar cronograma semanal |  Atividade do Guilherme  | ✅ |
 | **Terça**    | Estudar Java                 | Estudar Java                    | Estudar Java                   | Fazer o curso do google skills | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional | Relatório do Pensamento + relatório semanal | Estudar Java  | ✅ |
-| **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ⬜ |
+| **Quinta**   | Estudar Java                 | Estudar Java                       | Curso do google skills       | Curso do google skills        | ✅ |
 | **Sexta**    | Estudar RAG                  | Estudar sobre RAG                  |  Grupo de IA(início → 16h30 )|  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -50,9 +50,9 @@
 - **Notas: Link da atividade → https://docs.google.com/document/d/18hYVlfjh_z8-WX2J85oW3OA4MZsdJox2QFShp8otp_I/edit?usp=sharing** 
 
 ### Quinta-feira — 27/08
-- **14h – 16h** →
-- **16h - 18h** →
-- **Notas:**
+- **14h – 16h** → Estudando teoria e conceitos de POO
+- **16h - 18h** → Praticando por uma atividade do prof. Marcelo
+- **Notas: Acabei não fazendo o curso do google skills**
 
 ### Sexta-feira — 28/08
 - **14h – 15h** → 
@@ -80,4 +80,4 @@
 
 ---
 
-*Última atualização: 26/08/2026*
+*Última atualização: 27/08/2026*
