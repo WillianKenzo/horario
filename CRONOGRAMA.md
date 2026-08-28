@@ -55,29 +55,28 @@
 - **Notas: Acabei não fazendo o curso do google skills**
 
 ### Sexta-feira — 28/08
-- **14h – 15h** → 
-- **15h – 18h** →
+- **14h – 16h30** → Estudando sobre RAG
+- **16h30 – 18h** → Como o encontro do grupo de IA de sexta foi cancelado, continuei estudando sobre RAG
 - **Notas:** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ✅
--  Participar do Londrinense Tech e fazer o relatório (segunda-feira)
+- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Estudar Java
-- ⬜ Fazer o curso do google skills
+- ❌ Participar do Grupo de IA (sexta-feira)
+- ✅ Estudar Java
+- ❌ Fazer o curso do google skills
 
 ---
 
 ## 📌 Observações
 
--
+- Nessa semana o grupo de IA na sexta foi cancelado pois a internet da UniFil não está funcionando
 - 
 -  
 
 ---
 
-*Última atualização: 27/08/2026*
+*Última atualização: 28/08/2026*
