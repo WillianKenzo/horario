@@ -79,4 +79,4 @@
 
 ---
 
-*Última atualização: 28/08/2026*
+*Última atualização: 31/08/2026*
