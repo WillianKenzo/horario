@@ -20,8 +20,8 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    |  Atividade do prof. Marcelo   | ⬜ |
-| **Terça**    | Estudar Java                            | Estudar Java                            | Estudar Java                                | Estudar e ler artigos de RAG  | ⬜ |
+| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    |  Atividade do prof. Marcelo   | ✅ |
+| **Terça**    | Estudar Java                            | Estudar Java                            | Estudar Java                                | Estudar e ler artigos de RAG  | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar Java                  | ⬜ |
 | **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
@@ -40,9 +40,9 @@
 - **Notas:** 
 
 ### Terça-feira — 01/09
-- **14h – 16h** →
-- **16h - 18h** → 
-- **Notas:** 
+- **14h – 17h** → Fazendo atividade do Marcelo
+- **17h - 18h** → Estudando sobre RAG por um vídeo
+- **Notas: Link do vídeo de RAG: https://www.youtube.com/watch?v=swvzKSOEluc** 
 
 ### Quarta-feira — 02/09
 - **14h – 16h** →
@@ -63,7 +63,7 @@
 
 ## ✅ Checklist da Semana
 
-- ⬜ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
+- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
 - ⬜ Estudar Java
@@ -73,7 +73,7 @@
 
 ## 📌 Observações
 
-- Nessa semana o grupo de IA na sexta foi cancelado pois a internet da UniFil não está funcionando
+-
 - 
 -  
 
