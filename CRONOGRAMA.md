@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **31/08/2026**  
+> Atualizado em: **02/08/2026**  
 > Semana: **31/08 → 04/09/2026**
 
 ---
@@ -22,7 +22,7 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    |  Atividade do prof. Marcelo   | ✅ |
 | **Terça**    | Estudar Java                            | Estudar Java                            | Estudar Java                                | Estudar e ler artigos de RAG  | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar Java                  | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar Java                  | ✅ |
 | **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
@@ -45,9 +45,10 @@
 - **Notas: Link do vídeo de RAG: https://www.youtube.com/watch?v=swvzKSOEluc** 
 
 ### Quarta-feira — 02/09
-- **14h – 16h** →
-- **16h – 16h40** →
-- **16h40 - 18h** →
+- **14h – 16h** → Monitor no Pensamento computacional
+- **16h – 16h30** → Fiz o relatório da aula e depois o relatório semanal
+- **16h30 - 18h** → Fiquei fazendo atividades do Marcelo.
+- **Notas:**
 
 ### Quinta-feira — 03/09
 - **14h – 16h** → 
@@ -64,7 +65,7 @@
 ## ✅ Checklist da Semana
 
 - ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
 - ⬜ Estudar Java
 - ⬜ Estudar e ler artigos de RAG
@@ -79,4 +80,4 @@
 
 ---
 
-*Última atualização: 31/08/2026*
+*Última atualização: 02/08/2026*
