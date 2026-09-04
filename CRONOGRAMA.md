@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **03/08/2026**  
+> Atualizado em: **04/08/2026**  
 > Semana: **31/08 → 04/09/2026**
 
 ---
@@ -24,7 +24,7 @@
 | **Terça**    | Estudar Java                            | Estudar Java                            | Estudar Java                                | Estudar e ler artigos de RAG  | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar Java                  | ✅ |
 | **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ✅ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -55,8 +55,8 @@
 - **Notas: Acabei não estudando RAG pois a atividade tomou mais tempo do que eu imaginei**
 
 ### Sexta-feira — 04/09
-- **14h – 16h30** → 
-- **16h30 – 18h** → 
+- **14h – 16h30** → Estudando e vendo vídeos sobre RAG
+- **16h30 – 18h** → Participando do grupo de IA de sexta
 - **Notas:** 
 
 ---
@@ -65,9 +65,9 @@
 
 - ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Estudar Java
-- ⬜ Estudar e ler artigos de RAG
+- ✅ Participar do Grupo de IA (sexta-feira)
+- ✅ Estudar Java
+- ✅ Estudar e ler artigos de RAG
 
 ---
 
@@ -79,4 +79,4 @@
 
 ---
 
-*Última atualização: 03/08/2026*
+*Última atualização: 04/08/2026*
