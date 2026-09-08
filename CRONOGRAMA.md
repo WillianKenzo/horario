@@ -1,7 +1,7 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **04/08/2026**  
-> Semana: **31/08 → 04/09/2026**
+> Atualizado em: **08/08/2026**  
+> Semana: **08/08 → 11/09/2026**
 
 ---
 
@@ -22,9 +22,9 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    |  Atividade do prof. Marcelo   | ✅ |
 | **Terça**    | Estudar Java                            | Estudar Java                            | Estudar Java                                | Estudar e ler artigos de RAG  | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar Java                  | ✅ |
-| **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ✅ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar Java                  | ⬜ |
+| **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ⬜ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -32,48 +32,48 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Segunda-feira — 31/08
-- **14h – 15h45** → Monitor no Londrinense Tech
-- **15h55 - 16h15** → Fiz o relatório do Londrinense Tech
-- **16h15 – 17h** → Montei o cronograma semanal
-- **17h – 18h** → Fiquei fazendo uma atividade do prof. Marcelo
+### Segunda-feira — 07/08
+- **14h – 15h45** → Feriado
+- **15h55 - 16h15** → Feriado
+- **16h15 – 17h** → Feriado
+- **17h – 18h** → Feriado
 - **Notas:** 
 
-### Terça-feira — 01/09
-- **14h – 17h** → Fazendo atividade do Marcelo
-- **17h - 18h** → Estudando sobre RAG por um vídeo
-- **Notas: Link do vídeo de RAG: https://www.youtube.com/watch?v=swvzKSOEluc** 
+### Terça-feira — 08/09
+- **14h – 17h** → Estudando pra prova de gerenciamento de projetos
+- **17h - 18h** → Estudando um pouco de matematica
+- **Notas:** 
 
-### Quarta-feira — 02/09
-- **14h – 16h** → Monitor no Pensamento computacional
-- **16h – 16h30** → Fiz o relatório da aula e depois o relatório semanal
-- **16h30 - 18h** → Fiquei fazendo atividades do Marcelo.
+### Quarta-feira — 09/09
+- **14h – 16h** →
+- **16h – 16h30** →
+- **16h30 - 18h** →
 - **Notas:**
 
-### Quinta-feira — 03/09
-- **14h – 18h** → Fiquei fazendo uma atividade de javadoc do prof. Leonardo
-- **Notas: Acabei não estudando RAG pois a atividade tomou mais tempo do que eu imaginei**
+### Quinta-feira — 10/09
+- **14h – 18h** →
+- **Notas:**
 
-### Sexta-feira — 04/09
-- **14h – 16h30** → Estudando e vendo vídeos sobre RAG
-- **16h30 – 18h** → Participando do grupo de IA de sexta
+### Sexta-feira — 11/09
+- **14h – 16h30** →
+- **16h30 – 18h** →
 - **Notas:** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ✅ Participar do Grupo de IA (sexta-feira)
-- ✅ Estudar Java
-- ✅ Estudar e ler artigos de RAG
+- ❌ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
+- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ⬜ Participar do Grupo de IA (sexta-feira)
+- ⬜ Estudar Java
+- ⬜ Estudar e ler artigos de RAG
 
 ---
 
 ## 📌 Observações
 
--
+- Nessa semana não houve Londrinense Tech devido ao feriado na segunda-feira
 - 
 -  
 
