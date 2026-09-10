@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **09/09/2026**  
+> Atualizado em: **10/09/2026**  
 > Semana: **08/08 → 11/09/2026**
 
 ---
@@ -49,12 +49,11 @@
 - **16h – 16h30** → Fazendo o relatório da aula e o relatório semanal
 - **16h30 - 18h** → Estudando pra prova
 - **Notas:**
-
 ### Quinta-feira — 10/09
-- **14h – 15h** →
-- **15h – 16h** → 
-- **16h – 17h** →
-- **17h – 18h** → 
+- **14h – 15h** → Fazendo lista de matemática do prof. Guilherme
+- **15h – 16h** → Fazendo lista de matemática do prof. Guilherme
+- **16h – 17h** → Estudando pra prova do prof. Marcelo
+- **17h – 18h** → Estudando pra prova do prof. Matheus
 - **Notas:**
 
 ### Sexta-feira — 11/09
@@ -82,4 +81,4 @@
 
 ---
 
-*Última atualização: 09/09/2026*
+*Última atualização: 10/09/2026*
