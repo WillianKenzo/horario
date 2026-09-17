@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **16/09/2026**  
+> Atualizado em: **17/09/2026**  
 > Semana: **14/09 → 18/09/2026**
 
 ---
@@ -23,7 +23,7 @@
 | **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Estudar pra prova do Marcelo  | ✅ |
 | **Terça**    | Estudar Java                            | Estudar Java                            | Estudar Java                                | Estudar e ler artigos de RAG  | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar Java                  | ✅ |
-| **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ⬜ |
+| **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ✅ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -49,10 +49,10 @@
 - **16h30 - 18h** → Estudando RAG
 - **Notas:**
 ### Quinta-feira — 17/09
-- **14h – 15h** → 
-- **15h – 16h** → 
-- **16h – 17h** → 
-- **17h – 18h** → 
+- **14h – 15h** → Estudando matemática
+- **15h – 16h** → Estudando matemática
+- **16h – 17h** → Estudando RAG
+- **17h – 18h** → Estudando RAG
 - **Notas:**
 
 ### Sexta-feira — 18/09
@@ -80,4 +80,4 @@
 
 ---
 
-*Última atualização: 16/09/2026*
+*Última atualização: 17/09/2026*
