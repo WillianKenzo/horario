@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **17/09/2026**  
+> Atualizado em: **18/09/2026**  
 > Semana: **14/09 → 18/09/2026**
 
 ---
@@ -56,8 +56,8 @@
 - **Notas:**
 
 ### Sexta-feira — 18/09
-- **14h – 16h30** → 
-- **16h30 – 18h** → 
+- **14h – 16h30** → Estudando RAG
+- **16h30 – 18h** → Grupo de IA
 - **Notas:** 
 
 ---
@@ -66,9 +66,9 @@
 
 - ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Estudar Java
-- ⬜ Estudar e ler artigos de RAG
+- ✅ Participar do Grupo de IA (sexta-feira)
+- ❌ Estudar Java
+- ✅ Estudar e ler artigos de RAG
 
 ---
 
@@ -80,4 +80,4 @@
 
 ---
 
-*Última atualização: 17/09/2026*
+*Última atualização: 18/09/2026*
