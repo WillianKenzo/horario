@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **21/09/2026**  
+> Atualizado em: **22/09/2026**  
 > Semana: **21/09 → 25/09/2026**
 
 ---
@@ -20,8 +20,8 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Estudar pra prova do Marcelo  | ✅ |
-| **Terça**    | Estudar pra rec de matemática           | Estudar pra rec de matemática           | Estudar pra rec de matemática               | Estudar pra rec de matemática | ⬜ |
+| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Estudar pra rec de matemática | ✅ |
+| **Terça**    | Estudar pra rec de matemática           | Estudar pra rec de matemática           | Estudar pra rec de matemática               | Estudar pra rec de matemática | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar pra rec de matemática | ⬜ |
 | **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
@@ -40,7 +40,7 @@
 - **Notas:** 
 
 ### Terça-feira — 22/09
-- **14h – 18h** → 
+- **14h – 18h** → Estudei pra recuperação de matemática
 - **Notas:** 
 
 ### Quarta-feira — 23/09
@@ -80,4 +80,4 @@
 
 ---
 
-*Última atualização: 18/09/2026*
+*Última atualização: 22/09/2026*
