@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **22/09/2026**  
+> Atualizado em: **23/09/2026**  
 > Semana: **21/09 → 25/09/2026**
 
 ---
@@ -22,7 +22,7 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Estudar pra rec de matemática | ✅ |
 | **Terça**    | Estudar pra rec de matemática           | Estudar pra rec de matemática           | Estudar pra rec de matemática               | Estudar pra rec de matemática | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar pra rec de matemática | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar pra rec de matemática | ✅ |
 | **Quinta**   | Estudar Java                            | Estudar Java                            | Estudar e ler artigos de RAG                | Estudar e ler artigos de RAG  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
@@ -44,9 +44,9 @@
 - **Notas:** 
 
 ### Quarta-feira — 23/09
-- **14h – 16h** → 
-- **16h – 16h30** → 
-- **16h30 - 18h** → 
+- **14h – 16h** → Monitor no pensamento computacional
+- **16h – 16h30** → Relatório da aula e relatório semanal
+- **16h30 - 18h** → Estudei pra recuperação de matemática
 - **Notas:**
 ### Quinta-feira — 24/09
 - **14h – 15h** → 
@@ -65,9 +65,9 @@
 ## ✅ Checklist da Semana
 
 - ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Estudar pra recuperação de matemática
+- ✅ Estudar pra recuperação de matemática
 - ⬜ Estudar e ler artigos de RAG
 
 ---
@@ -80,4 +80,4 @@
 
 ---
 
-*Última atualização: 22/09/2026*
+*Última atualização: 23/09/2026*
