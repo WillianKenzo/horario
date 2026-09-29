@@ -20,8 +20,8 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ⬜ |
-| **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
+| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ✅ |
+| **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Estudar e ler artigos de RAG  | ⬜ |
 | **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
@@ -36,11 +36,12 @@
 - **14h – 15h45** → Monitor no Londrinense Tech
 - **15h55 - 16h15** → Fazendo o relatório
 - **16h15 – 17h** → Fiz o cronograma semanal
-- **17h – 18h** → 
+- **17h – 18h** → Fiz um curso do google skills
 - **Notas:** 
 
 ### Terça-feira — 29/09
-- **14h – 18h** → 
+- **14h – 16h** → Fiz um pouco de prática de RAG
+- **16h – 18h** → Iniciei um curso da google skills
 - **Notas:** 
 
 ### Quarta-feira — 30/09
@@ -64,7 +65,7 @@
 
 ## ✅ Checklist da Semana
 
-- ⬜ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
+- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
 - ⬜ Fazer o curso da google skills
@@ -80,4 +81,4 @@
 
 ---
 
-*Última atualização: 28/09/2026*
+*Última atualização: 29/09/2026*
