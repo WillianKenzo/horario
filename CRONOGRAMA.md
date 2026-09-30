@@ -81,4 +81,4 @@
 
 ---
 
-*Última atualização: 29/09/2026*
+*Última atualização: 30/09/2026*
