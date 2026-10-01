@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **30/09/2026**  
+> Atualizado em: **01/10/2026**  
 > Semana: **28/09 → 02/10/2026**
 
 ---
@@ -23,7 +23,7 @@
 | **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ✅ |
 | **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ✅ |
-| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
+| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ✅ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -50,10 +50,10 @@
 - **16h30 - 18h** → Curso da google skills
 - **Notas:**
 ### Quinta-feira — 01/10
-- **14h – 15h** → 
-- **15h – 16h** → 
-- **16h – 17h** → 
-- **17h – 18h** → 
+- **14h – 15h** → Vendo o video sobre RAG
+- **15h – 16h** → Finalizando a prática
+- **16h – 17h** → Continuei o curso da google skills
+- **17h – 18h** → Ainda fazendo o curso da google skills
 - **Notas:**
 
 ### Sexta-feira — 02/10
@@ -81,4 +81,4 @@
 
 ---
 
-*Última atualização: 30/09/2026*
+*Última atualização: 01/10/2026*
