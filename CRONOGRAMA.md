@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **05/10/2026**  
+> Atualizado em: **06/10/2026**  
 > Semana: **05/10 → 09/10/2026**
 
 ---
@@ -20,8 +20,8 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ⬜ |
-| **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
+| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ✅ |
+| **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ⬜ |
 | **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
@@ -40,8 +40,8 @@
 - **Notas:** 
 
 ### Terça-feira — 06/10
-- **14h – 16h** → 
-- **16h – 18h** →
+- **14h – 16h** → Comecei o curso do aluno tutor
+- **16h – 18h** → Continuei o curso da google skills
 - **Notas:** 
 
 ### Quarta-feira — 07/10
@@ -81,4 +81,4 @@
 
 ---
 
-*Última atualização: 05/10/2026*
+*Última atualização: 06/10/2026*
