@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **06/10/2026**  
+> Atualizado em: **07/10/2026**  
 > Semana: **05/10 → 09/10/2026**
 
 ---
@@ -45,9 +45,9 @@
 - **Notas:** 
 
 ### Quarta-feira — 07/10
-- **14h – 16h** → 
-- **16h – 16h30** → 
-- **16h30 - 18h** → 
+- **14h – 16h** → Monitor no Pensamento computacional
+- **16h – 16h30** → Fiz o relatório da aula e o relatório semanal
+- **16h30 - 18h** → Continuei o curso da google skills
 - **Notas:**
 ### Quinta-feira — 08/10
 - **14h – 15h** → 
@@ -81,4 +81,4 @@
 
 ---
 
-*Última atualização: 06/10/2026*
+*Última atualização: 07/10/2026*
