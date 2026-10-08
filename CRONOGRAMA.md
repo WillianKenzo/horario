@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **07/10/2026**  
+> Atualizado em: **08/10/2026**  
 > Semana: **05/10 → 09/10/2026**
 
 ---
@@ -54,7 +54,7 @@
 - **15h – 16h** → 
 - **16h – 17h** → 
 - **17h – 18h** → 
-- **Notas:**
+- **Notas: Meu aniversário pô**
 
 ### Sexta-feira — 09/10
 - **14h – 16h** → 
@@ -81,4 +81,4 @@
 
 ---
 
-*Última atualização: 07/10/2026*
+*Última atualização: 08/10/2026*
