@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **08/10/2026**  
+> Atualizado em: **09/10/2026**  
 > Semana: **05/10 → 09/10/2026**
 
 ---
@@ -22,9 +22,9 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ✅ |
 | **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ⬜ |
-| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ✅ |
+| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ❌ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -57,19 +57,19 @@
 - **Notas: Meu aniversário pô**
 
 ### Sexta-feira — 09/10
-- **14h – 16h** → 
-- **16h – 18h** → 
+- **14h – 16h3o** → Fazendo parte prática de RAG
+- **16h30 – 18h** → Grupo de IA 
 - **Notas:** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ⬜ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Fazer o curso da google skills
-- ⬜ Estudar e ler artigos de RAG
+- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
+- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ✅ Participar do Grupo de IA (sexta-feira)
+- ✅ Fazer o curso da google skills
+- ✅ Estudar e ler artigos de RAG
 
 ---
 
@@ -81,4 +81,4 @@
 
 ---
 
-*Última atualização: 08/10/2026*
+*Última atualização: 09/10/2026*
