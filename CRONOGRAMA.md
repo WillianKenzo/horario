@@ -1,7 +1,7 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **09/10/2026**  
-> Semana: **05/10 → 09/10/2026**
+> Atualizado em: **15/10/2026**  
+> Semana: **14/10 → 16/10/2026**
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ✅ |
-| **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ✅ |
-| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ❌ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
+| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ⬜ |
+| **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ❌ |
+| **Quinta**   | Fazer atividade da prof. Renata         | Fazer   atividade da prof. Renata       | Fazer  atividade da prof. Renata            | Fazer atividade do prof. Eron | ✅ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -32,53 +32,40 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Segunda-feira — 05/10
-- **14h – 15h45** → Monitor no Londrinense Tech
-- **15h55 - 16h15** → Fiz o relatório da aula
-- **16h15 – 17h** → Fiz o cronograma semanal
-- **17h – 18h** → Fiz um pouco curso da google skills
-- **Notas:** 
-
-### Terça-feira — 06/10
-- **14h – 16h** → Comecei o curso do aluno tutor
-- **16h – 18h** → Continuei o curso da google skills
-- **Notas:** 
-
-### Quarta-feira — 07/10
+### Quarta-feira — 14/10
 - **14h – 16h** → Monitor no Pensamento computacional
 - **16h – 16h30** → Fiz o relatório da aula e o relatório semanal
 - **16h30 - 18h** → Continuei o curso da google skills
 - **Notas:**
-### Quinta-feira — 08/10
-- **14h – 15h** → 
-- **15h – 16h** → 
-- **16h – 17h** → 
-- **17h – 18h** → 
-- **Notas: Meu aniversário pô**
+### Quinta-feira — 15/10
+- **14h – 15h** → Fazendo atividade da prof. Renata
+- **15h – 16h** → Fazendo atividade da prof. Renata
+- **16h – 17h** → Fazendo atividade da prof. Renata
+- **17h – 18h** → Fazendo atividade do prof. Eron
+- **Notas:**
 
-### Sexta-feira — 09/10
-- **14h – 16h3o** → Fazendo parte prática de RAG
-- **16h30 – 18h** → Grupo de IA 
+### Sexta-feira — 16/10
+- **14h – 16h3o** → 
+- **16h30 – 18h** → 
 - **Notas:** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ✅ Participar do Grupo de IA (sexta-feira)
-- ✅ Fazer o curso da google skills
-- ✅ Estudar e ler artigos de RAG
+- ❌ Participar do Grupo de IA (sexta-feira)
+- ⬜ Fazer o curso da google skills
+- ⬜ Estudar e ler artigos de RAG
 
 ---
 
 ## 📌 Observações
 
-- 
+- Grupo de IA cancelado pois o Eron tem compromisso
 - 
 -  
 
 ---
 
-*Última atualização: 09/10/2026*
+*Última atualização: 15/10/2026*
