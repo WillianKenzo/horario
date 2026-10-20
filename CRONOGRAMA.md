@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **19/10/2026**  
+> Atualizado em: **20/10/2026**  
 > Semana: **19/10 → 23/10/2026**
 
 ---
@@ -40,8 +40,10 @@
 - **Notas:** 
 
 ### Terça-feira — 20/10
-- **14h – 16h** →
-- **16h – 18h** → 
+- **14h – 15h** → Fazendo atividade do prof. Marcelo
+- **15h – 16h** → Fazendo atividade do prof. Marcelo
+- **16h – 17h** → Terminando a atividade do prof. Marcelo
+- **17h – 18h** → Continuei o curso da google skills
 - **Notas:** 
 
 ### Quarta-feira — 21/10
@@ -80,4 +82,4 @@
 
 ---
 
-*Última atualização: 19/10/2026*
+*Última atualização: 20/10/2026*
