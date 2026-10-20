@@ -20,11 +20,11 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech(15h45 fim) + Relatório | Criar cronograma semanal                    | Fazer curso da google skills  | ⬜ |
-| **Terça**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ❌ |
-| **Quinta**   | Fazer atividade da prof. Renata         | Fazer   atividade da prof. Renata       | Fazer  atividade da prof. Renata            | Fazer atividade do prof. Eron | ✅ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
+| **Segunda**  | Atividade do prof. Matheus              | Atividade do prof. Matheus              | Criar cronograma semanal                    | Fazer curso da google skills  | ✅ |
+| **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso da google skills  | ✅ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ⬜ |
+| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -32,40 +32,52 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Quarta-feira — 14/10
-- **14h – 16h** → Monitor no Pensamento computacional
-- **16h – 16h30** → Fiz o relatório da aula e o relatório semanal
-- **16h30 - 18h** → Continuei o curso da google skills
+### Segunda-feira — 19/10
+- **14h – 15h45** → Criei cronograma semanal    
+- **15h45 - 16h** → Fazendo atividade do prof. Matheus
+- **16h – 17h** → Fazendo atividade do prof. Matheus
+- **17h – 18h** → Fazendo atividade do prof. Matheus
+- **Notas:** 
+
+### Terça-feira — 20/10
+- **14h – 16h** →
+- **16h – 18h** → 
+- **Notas:** 
+
+### Quarta-feira — 21/10
+- **14h – 16h** → 
+- **16h – 16h30** →
+- **16h30 - 18h** → 
 - **Notas:**
-### Quinta-feira — 15/10
-- **14h – 15h** → Fazendo atividade da prof. Renata
-- **15h – 16h** → Fazendo atividade da prof. Renata
-- **16h – 17h** → Fazendo atividade da prof. Renata
-- **17h – 18h** → Fazendo atividade do prof. Eron
+### Quinta-feira — 22/10
+- **14h – 15h** →
+- **15h – 16h** → 
+- **16h – 17h** →
+- **17h – 18h** → 
 - **Notas:**
 
-### Sexta-feira — 16/10
-- **14h – 16h3o** → Fazendo atividade do prof. Matheus
-- **16h30 – 18h** → Fazendo atividade do prof. Matheus
+### Sexta-feira — 23/10
+- **14h – 16h30** → 
+- **16h30 – 18h** → 
 - **Notas:** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ❌ Participar do Grupo de IA (sexta-feira)
-- ❌ Fazer o curso da google skills
-- ❌ Estudar e ler artigos de RAG
+- ❌ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
+- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ⬜ Participar do Grupo de IA (sexta-feira)
+- ⬜ Fazer o curso da google skills
+- ⬜ Estudar e ler artigos de RAG
 
 ---
 
 ## 📌 Observações
 
-- Grupo de IA cancelado pois o Eron tem compromisso
-- 
+- Não teve Londrinense Tech pois os alunos do 6º ano tiveram um evento do colégio Londrinense
 -  
 
 ---
 
-*Última atualização: 16/10/2026*
+*Última atualização: 19/10/2026*
