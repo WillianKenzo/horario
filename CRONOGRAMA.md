@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **20/10/2026**  
+> Atualizado em: **21/10/2026**  
 > Semana: **19/10 → 23/10/2026**
 
 ---
@@ -22,7 +22,7 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  | Atividade do prof. Matheus              | Atividade do prof. Matheus              | Criar cronograma semanal                    | Fazer curso da google skills  | ✅ |
 | **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso da google skills  | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso da google skills  | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Atividade do prof. Marcelo    | ✅ |
 | **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
@@ -47,9 +47,9 @@
 - **Notas:** 
 
 ### Quarta-feira — 21/10
-- **14h – 16h** → 
-- **16h – 16h30** →
-- **16h30 - 18h** → 
+- **14h – 16h** → Monitor no pensamento computacional
+- **16h – 16h30** → Fiz o relatório da aula e o relatório semanal
+- **16h30 - 18h** → Fazendo a atividade do prof. Marcelo 
 - **Notas:**
 ### Quinta-feira — 22/10
 - **14h – 15h** →
@@ -68,7 +68,7 @@
 ## ✅ Checklist da Semana
 
 - ❌ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
 - ⬜ Fazer o curso da google skills
 - ⬜ Estudar e ler artigos de RAG
@@ -82,4 +82,4 @@
 
 ---
 
-*Última atualização: 20/10/2026*
+*Última atualização: 21/10/2026*
