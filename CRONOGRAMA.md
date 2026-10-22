@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **21/10/2026**  
+> Atualizado em: **22/10/2026**  
 > Semana: **19/10 → 23/10/2026**
 
 ---
@@ -23,7 +23,7 @@
 | **Segunda**  | Atividade do prof. Matheus              | Atividade do prof. Matheus              | Criar cronograma semanal                    | Fazer curso da google skills  | ✅ |
 | **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso da google skills  | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Atividade do prof. Marcelo    | ✅ |
-| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
+| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ✅ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -52,10 +52,8 @@
 - **16h30 - 18h** → Fazendo a atividade do prof. Marcelo 
 - **Notas:**
 ### Quinta-feira — 22/10
-- **14h – 15h** →
-- **15h – 16h** → 
-- **16h – 17h** →
-- **17h – 18h** → 
+- **14h – 15h** → Estude sobre RAG
+- **15h – 18h** → Continuei o curso da google skills
 - **Notas:**
 
 ### Sexta-feira — 23/10
@@ -82,4 +80,4 @@
 
 ---
 
-*Última atualização: 21/10/2026*
+*Última atualização: 22/10/2026*
