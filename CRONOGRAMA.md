@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **22/10/2026**  
+> Atualizado em: **23/10/2026**  
 > Semana: **19/10 → 23/10/2026**
 
 ---
@@ -24,7 +24,7 @@
 | **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso da google skills  | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Atividade do prof. Marcelo    | ✅ |
 | **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ✅ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -52,13 +52,13 @@
 - **16h30 - 18h** → Fazendo a atividade do prof. Marcelo 
 - **Notas:**
 ### Quinta-feira — 22/10
-- **14h – 15h** → Estude sobre RAG
+- **14h – 15h** → Estudei sobre RAG
 - **15h – 18h** → Continuei o curso da google skills
 - **Notas:**
 
 ### Sexta-feira — 23/10
-- **14h – 16h30** → 
-- **16h30 – 18h** → 
+- **14h – 17h** → Fazendo o curso do aluno tutor
+- **17h – 18h** → Grupo de IA
 - **Notas:** 
 
 ---
@@ -67,17 +67,17 @@
 
 - ❌ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
 - ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Fazer o curso da google skills
-- ⬜ Estudar e ler artigos de RAG
+- ✅ Participar do Grupo de IA (sexta-feira)
+- ✅ Fazer o curso da google skills
+- ✅ Estudar e ler artigos de RAG
 
 ---
 
 ## 📌 Observações
 
 - Não teve Londrinense Tech pois os alunos do 6º ano tiveram um evento do colégio Londrinense
--  
+- Essa semana o grupo de IA começou meia hora mais tarde, não sei o motivo
 
 ---
 
-*Última atualização: 22/10/2026*
+*Última atualização: 23/10/2026*
