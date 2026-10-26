@@ -21,7 +21,7 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech (Fim 15h45)            | Criar cronograma semanal                    | Atividade do prof. Matheus    | ⬜ |
+| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech (Fim 15h45)            | Criar cronograma semanal                    | Atividade do prof. Matheus    | ✅ |
 | **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Fazer curso do aluno tutor                  | Fazer curso do aluno tutor    | ⬜ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ⬜ |
 | **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
@@ -34,10 +34,10 @@
 ## 📝 Detalhamento Diário (14h – 18h)
 
 ### Segunda-feira — 26/10
-- **14h – 15h45** →
-- **15h45 - 16h** →
-- **16h – 17h** → 
-- **17h – 18h** → 
+- **14h – 15h45** → Monitor no Londrinense Tech
+- **15h45 - 16h** → Relatório da aula
+- **16h – 16h20** → Criei o cronograma semanal
+- **16h20 – 18h** → Fiz atividade do prof. Matheus 
 - **Notas:** 
 
 ### Terça-feira — 27/10
