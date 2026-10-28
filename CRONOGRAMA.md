@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **27/10/2026**  
+> Atualizado em: **28/10/2026**  
 > Semana: **26/10 → 30/10/2026**
 
 ---
@@ -23,7 +23,7 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech (Fim 15h45)            | Criar cronograma semanal                    | Atividade do prof. Matheus    | ✅ |
 | **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Atividade da prof. Renata                   | Fazer curso do aluno tutor    | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ✅ |
 | **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
@@ -44,13 +44,13 @@
 - **14h – 15h** → Atividade da prof. Renata
 - **15h – 16h** → Atividade da prof. Renata
 - **16h – 17h** → Atividade da prof. Renata
-- **17h – 18h** → Contineui o curso do aluno tutor
+- **17h – 18h** → Continuei o curso do aluno tutor
 - **Notas:** 
 
 ### Quarta-feira — 28/10
-- **14h – 16h** → 
-- **16h – 16h30** → 
-- **16h30 - 18h** → 
+- **14h – 16h** → Monitor no Pensamento computacional
+- **16h – 16h30** → Fazendo relatório da aula e relatório semanal
+- **16h30 - 18h** → Fazendo atividade do prof. Marcelo
 - **Notas:**
 ### Quinta-feira — 29/10
 - **14h – 15h** → 
@@ -80,4 +80,4 @@
 - 
 ---
 
-*Última atualização: 27/10/2026*
+*Última atualização: 28/10/2026*
