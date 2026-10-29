@@ -69,9 +69,10 @@
 ## ✅ Checklist da Semana
 
 - ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
 - ⬜ Fazer o curso da google skills
+- ✅ Fazer o curso do aluno tutor
 - ⬜ Estudar e ler artigos de RAG
 
 ---
