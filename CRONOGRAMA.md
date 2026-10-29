@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **28/10/2026**  
+> Atualizado em: **29/10/2026**  
 > Semana: **26/10 → 30/10/2026**
 
 ---
@@ -24,7 +24,7 @@
 | **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech (Fim 15h45)            | Criar cronograma semanal                    | Atividade do prof. Matheus    | ✅ |
 | **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Atividade da prof. Renata                   | Fazer curso do aluno tutor    | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ✅ |
-| **Quinta**   | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Fazer curso da google skills                | Fazer curso da google skills  | ⬜ |
+| **Quinta**   | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Fazer o curso do aluno tutor                | Fazer curso da google skills  | ✅ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -53,8 +53,10 @@
 - **16h30 - 18h** → Fazendo atividade do prof. Marcelo
 - **Notas:**
 ### Quinta-feira — 29/10
-- **14h – 15h** → 
-- **15h – 18h** →
+- **14h – 15h** → Fazendo atividade do prof. Marcelo
+- **15h – 16h** → Fazendo atividade do prof. Marcelo
+- **16h – 17h** → Continuei o curso do aluno tutor
+- **17h – 18h** → Continuei fazendo o curso do aluno tutor
 - **Notas:**
 
 ### Sexta-feira — 30/10
@@ -80,4 +82,4 @@
 - 
 ---
 
-*Última atualização: 28/10/2026*
+*Última atualização: 29/10/2026*
