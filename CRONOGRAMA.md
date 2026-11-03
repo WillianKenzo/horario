@@ -1,13 +1,12 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **29/10/2026**  
-> Semana: **26/10 → 30/10/2026**
+> Atualizado em: **03/11/2026**  
+> Semana: **03/11 → 06/11/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana
 
-- Participar do Londrinense Tech (Segunda)
 - Participar do Pensamento Computacional (Quarta)
 - Participar do Grupo de IA (Sexta) 
 - Entregar os relatórios das aulas
@@ -21,10 +20,10 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Londrinense Tech (início 14h15)         | Londrinense Tech (Fim 15h45)            | Criar cronograma semanal                    | Atividade do prof. Matheus    | ✅ |
-| **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Atividade da prof. Renata                   | Fazer curso do aluno tutor    | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ✅ |
-| **Quinta**   | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Fazer o curso do aluno tutor                | Fazer curso da google skills  | ✅ |
+| **Segunda**  | Feriado                                 | Feriado                                 | Feriado                                     | Feriado                       | ⬜ |
+| **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso do aluno tutor    | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ⬜ |
+| **Quinta**   | Atividade da prof. Renata               | Atividade da prof. Renata               | Fazer o curso do aluno tutor                | Fazer curso da google skills  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -33,33 +32,33 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Segunda-feira — 26/10
-- **14h – 15h45** → Monitor no Londrinense Tech
-- **15h45 - 16h** → Relatório da aula
-- **16h – 16h20** → Criei o cronograma semanal
-- **16h20 – 18h** → Fiz atividade do prof. Matheus 
+### Segunda-feira — 02/11
+- **14h – 15h45** → Feriado                     
+- **15h45 - 16h** → Feriado                     
+- **16h – 16h20** → Feriado                     
+- **16h20 – 18h** → Feriado                     
 - **Notas:** 
 
-### Terça-feira — 27/10
-- **14h – 15h** → Atividade da prof. Renata
-- **15h – 16h** → Atividade da prof. Renata
-- **16h – 17h** → Atividade da prof. Renata
-- **17h – 18h** → Continuei o curso do aluno tutor
-- **Notas:** 
+### Terça-feira — 03/11
+- **14h – 14h30** → Fiz o cronograma semanal 
+- **14h30 – 16h** → Fazendo atividade do prof. Marcelo
+- **16h – 17h** → Fazendo atividade do prof. Marcelo
+- **17h – 18h** → Reunião do npi
+- **Notas: Não fiz o aluno tutor porque teve reunião do npi** 
 
-### Quarta-feira — 28/10
-- **14h – 16h** → Monitor no Pensamento computacional
-- **16h – 16h30** → Fazendo relatório da aula e relatório semanal
-- **16h30 - 18h** → Fazendo atividade do prof. Marcelo
+### Quarta-feira — 04/11
+- **14h – 16h** →
+- **16h – 16h30** →
+- **16h30 - 18h** → 
 - **Notas:**
-### Quinta-feira — 29/10
-- **14h – 15h** → Fazendo atividade do prof. Marcelo
-- **15h – 16h** → Fazendo atividade do prof. Marcelo
-- **16h – 17h** → Continuei o curso do aluno tutor
-- **17h – 18h** → Continuei fazendo o curso do aluno tutor
+### Quinta-feira — 05/11
+- **14h – 15h** → 
+- **15h – 16h** →
+- **16h – 17h** → 
+- **17h – 18h** → 
 - **Notas:**
 
-### Sexta-feira — 30/10
+### Sexta-feira — 06/11
 - **14h – 17h** → 
 - **17h – 18h** → 
 - **Notas:** 
@@ -68,11 +67,10 @@
 
 ## ✅ Checklist da Semana
 
-- ✅ Participar do Londrinense Tech e fazer o relatório (segunda-feira)
-- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
 - ⬜ Participar do Grupo de IA (sexta-feira)
 - ⬜ Fazer o curso da google skills
-- ✅ Fazer o curso do aluno tutor
+- ⬜ Fazer o curso do aluno tutor
 - ⬜ Estudar e ler artigos de RAG
 
 ---
@@ -83,4 +81,4 @@
 - 
 ---
 
-*Última atualização: 29/10/2026*
+*Última atualização: 03/11/2026*
