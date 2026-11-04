@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **03/11/2026**  
+> Atualizado em: **04/11/2026**  
 > Semana: **03/11 → 06/11/2026**
 
 ---
@@ -22,7 +22,7 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  | Feriado                                 | Feriado                                 | Feriado                                     | Feriado                       | ⬜ |
 | **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso do aluno tutor    | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ✅ |
 | **Quinta**   | Atividade da prof. Renata               | Atividade da prof. Renata               | Fazer o curso do aluno tutor                | Fazer curso da google skills  | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
@@ -47,9 +47,9 @@
 - **Notas: Não fiz o aluno tutor porque teve reunião do npi** 
 
 ### Quarta-feira — 04/11
-- **14h – 16h** →
-- **16h – 16h30** →
-- **16h30 - 18h** → 
+- **14h – 16h** → Monitor no pensamento computacional
+- **16h – 16h30** → Fazendo relatório da aula e relatório semanal
+- **16h30 - 18h** → Fazendo questionário do prof. Narcelo
 - **Notas:**
 ### Quinta-feira — 05/11
 - **14h – 15h** → 
@@ -81,4 +81,4 @@
 - 
 ---
 
-*Última atualização: 03/11/2026*
+*Última atualização: 04/11/2026*
