@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **04/11/2026**  
+> Atualizado em: **05/11/2026**  
 > Semana: **03/11 → 06/11/2026**
 
 ---
@@ -23,7 +23,7 @@
 | **Segunda**  | Feriado                                 | Feriado                                 | Feriado                                     | Feriado                       | ⬜ |
 | **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso do aluno tutor    | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ✅ |
-| **Quinta**   | Atividade da prof. Renata               | Atividade da prof. Renata               | Fazer o curso do aluno tutor                | Fazer curso da google skills  | ⬜ |
+| **Quinta**   | Atividade da prof. Renata               | Atividade da prof. Renata               | Fazer o curso do aluno tutor                | Fazer curso da google skills  | ✅ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -52,10 +52,10 @@
 - **16h30 - 18h** → Fazendo questionário do prof. Narcelo
 - **Notas:**
 ### Quinta-feira — 05/11
-- **14h – 15h** → 
-- **15h – 16h** →
-- **16h – 17h** → 
-- **17h – 18h** → 
+- **14h – 15h** → Atividade da Renata
+- **15h – 16h** → Atividade da Renata
+- **16h – 17h** → Outra atividade da Renata
+- **17h – 18h** → Curso da google skills
 - **Notas:**
 
 ### Sexta-feira — 06/11
@@ -81,4 +81,4 @@
 - 
 ---
 
-*Última atualização: 04/11/2026*
+*Última atualização: 05/11/2026*
