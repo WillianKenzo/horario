@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **05/11/2026**  
+> Atualizado em: **06/11/2026**  
 > Semana: **03/11 → 06/11/2026**
 
 ---
@@ -24,7 +24,7 @@
 | **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso do aluno tutor    | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ✅ |
 | **Quinta**   | Atividade da prof. Renata               | Atividade da prof. Renata               | Fazer o curso do aluno tutor                | Fazer curso da google skills  | ✅ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -49,7 +49,7 @@
 ### Quarta-feira — 04/11
 - **14h – 16h** → Monitor no pensamento computacional
 - **16h – 16h30** → Fazendo relatório da aula e relatório semanal
-- **16h30 - 18h** → Fazendo questionário do prof. Narcelo
+- **16h30 - 18h** → Fazendo questionário do prof. Marcelo
 - **Notas:**
 ### Quinta-feira — 05/11
 - **14h – 15h** → Atividade da Renata
@@ -59,26 +59,29 @@
 - **Notas:**
 
 ### Sexta-feira — 06/11
-- **14h – 17h** → 
-- **17h – 18h** → 
-- **Notas:** 
+- **14h – 15h** → Atividade da Renata
+- **15h – 16h** → Atividade da Renata
+- **16h – 17h** → Estudei um pouco sobre RAG
+- **17h – 18h** → Estudei um pouco sobre RAG
+- **Notas: Hoje não houve grupo de IA, pois o Eron saiu, e o grupo está passando por reestruturação**
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ⬜ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Fazer o curso da google skills
-- ⬜ Fazer o curso do aluno tutor
-- ⬜ Estudar e ler artigos de RAG
+- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
+- ❌ Participar do Grupo de IA (sexta-feira)
+- ✅ Fazer o curso da google skills
+- ✅ Fazer o curso do aluno tutor
+- ✅ Estudar e ler artigos de RAG
 
 ---
 
 ## 📌 Observações
 
 -
-- 
+-
+
 ---
 
-*Última atualização: 05/11/2026*
+*Última atualização: 06/11/2026*
