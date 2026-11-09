@@ -1,15 +1,13 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **06/11/2026**  
-> Semana: **03/11 → 06/11/2026**
+> Atualizado em: **09/11/2026**  
+> Semana: **09/11 → 13/11/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana
 
-- Participar do Pensamento Computacional (Quarta)
 - Participar do Grupo de IA (Sexta) 
-- Entregar os relatórios das aulas
 - Fazer o curso da google skills
 - Fazer o curso do aluno tutor
 - Estudar e ler artigos de RAG
@@ -20,11 +18,11 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  | Feriado                                 | Feriado                                 | Feriado                                     | Feriado                       | ⬜ |
-| **Terça**    | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Atividade do prof. Marcelo                  | Fazer curso do aluno tutor    | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Fazer curso do aluno tutor    | ✅ |
-| **Quinta**   | Atividade da prof. Renata               | Atividade da prof. Renata               | Fazer o curso do aluno tutor                | Fazer curso da google skills  | ✅ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
+| **Segunda**  |                                         |                                         |                                             |                               | ❌ |
+| **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Terminar curso do aluno tutor | ⬜ |
+| **Quinta**   | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ⬜ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -32,48 +30,47 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Segunda-feira — 02/11
-- **14h – 15h45** → Feriado                     
-- **15h45 - 16h** → Feriado                     
-- **16h – 16h20** → Feriado                     
-- **16h20 – 18h** → Feriado                     
+### Segunda-feira — 09/11
+- **14h – 15h45** →                    
+- **15h45 - 16h** →                   
+- **16h – 16h20** →                    
+- **16h20 – 18h** →               
+- **Notas: Fui na formatura do Londrinense tech então sem npi hoje** 
+
+### Terça-feira — 10/11
+- **14h – 14h30** →
+- **14h30 – 16h** →
+- **16h – 17h** → 
+- **17h – 18h** →
 - **Notas:** 
 
-### Terça-feira — 03/11
-- **14h – 14h30** → Fiz o cronograma semanal 
-- **14h30 – 16h** → Fazendo atividade do prof. Marcelo
-- **16h – 17h** → Fazendo atividade do prof. Marcelo
-- **17h – 18h** → Reunião do npi
-- **Notas: Não fiz o aluno tutor porque teve reunião do npi** 
-
-### Quarta-feira — 04/11
-- **14h – 16h** → Monitor no pensamento computacional
-- **16h – 16h30** → Fazendo relatório da aula e relatório semanal
-- **16h30 - 18h** → Fazendo questionário do prof. Marcelo
+### Quarta-feira — 11/11
+- **14h – 16h** →
+- **16h – 16h30** →
+- **16h30 - 18h** →
 - **Notas:**
-### Quinta-feira — 05/11
-- **14h – 15h** → Atividade da Renata
-- **15h – 16h** → Atividade da Renata
-- **16h – 17h** → Outra atividade da Renata
-- **17h – 18h** → Curso da google skills
+### Quinta-feira — 12/11
+- **14h – 15h** →
+- **15h – 16h** →
+- **16h – 17h** → 
+- **17h – 18h** →
 - **Notas:**
 
-### Sexta-feira — 06/11
-- **14h – 15h** → Atividade da Renata
-- **15h – 16h** → Atividade da Renata
-- **16h – 17h** → Estudei um pouco sobre RAG
-- **17h – 18h** → Estudei um pouco sobre RAG
-- **Notas: Hoje não houve grupo de IA, pois o Eron saiu, e o grupo está passando por reestruturação**
+### Sexta-feira — 13/11
+- **14h – 15h** →
+- **15h – 16h** → 
+- **16h – 17h** →
+- **17h – 18h** → 
+- **Notas:**
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ✅ Participar do Pensamento Computacional e fazer o relatório (quarta-feira)
-- ❌ Participar do Grupo de IA (sexta-feira)
-- ✅ Fazer o curso da google skills
-- ✅ Fazer o curso do aluno tutor
-- ✅ Estudar e ler artigos de RAG
+- ⬜ Participar do Grupo de IA (sexta-feira)
+- ⬜ Fazer o curso da google skills
+- ⬜ Terminar o curso do aluno tutor
+- ⬜ Estudar e ler artigos de RAG
 
 ---
 
@@ -84,4 +81,4 @@
 
 ---
 
-*Última atualização: 06/11/2026*
+*Última atualização: 09/11/2026*
