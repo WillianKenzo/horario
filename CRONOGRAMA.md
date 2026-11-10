@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **09/11/2026**  
+> Atualizado em: **10/11/2026**  
 > Semana: **09/11 → 13/11/2026**
 
 ---
@@ -19,7 +19,7 @@
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  |                                         |                                         |                                             |                               | ❌ |
-| **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ⬜ |
+| **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Terminar curso do aluno tutor | ⬜ |
 | **Quinta**   | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
@@ -38,10 +38,10 @@
 - **Notas: Fui na formatura do Londrinense tech então sem npi hoje** 
 
 ### Terça-feira — 10/11
-- **14h – 14h30** →
-- **14h30 – 16h** →
-- **16h – 17h** → 
-- **17h – 18h** →
+- **14h – 15h** → Formatura
+- **15h – 16h** → Formatura
+- **16h – 17h** → Formatura
+- **17h – 18h** → Fazendo a atividade da Renata
 - **Notas:** 
 
 ### Quarta-feira — 11/11
@@ -81,4 +81,4 @@
 
 ---
 
-*Última atualização: 09/11/2026*
+*Última atualização: 10/11/2026*
