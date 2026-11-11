@@ -20,7 +20,7 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
 | **Segunda**  |                                         |                                         |                                             |                               | ❌ |
 | **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Terminar curso do aluno tutor | ⬜ |
+| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Terminar curso do aluno tutor | ✅ |
 | **Quinta**   | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ⬜ |
 | **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
 
@@ -45,9 +45,10 @@
 - **Notas:** 
 
 ### Quarta-feira — 11/11
-- **14h – 16h** →
-- **16h – 16h30** →
-- **16h30 - 18h** →
+- **14h – 15h** → Fazendo a atividade da Renata
+- **15h – 16h** → Fazendo a atividade da Renata
+- **16h - 17h** → Fazendo a atividade da Renata
+- **17h – 18h** → Fazendo o curso do aluno tutor
 - **Notas:**
 ### Quinta-feira — 12/11
 - **14h – 15h** →
@@ -81,4 +82,4 @@
 
 ---
 
-*Última atualização: 10/11/2026*
+*Última atualização: 11/11/2026*
