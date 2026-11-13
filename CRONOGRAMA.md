@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **12/11/2026**  
+> Atualizado em: **13/11/2026**  
 > Semana: **09/11 → 13/11/2026**
 
 ---
@@ -22,7 +22,7 @@
 | **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ✅ |
 | **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Terminar curso do aluno tutor | ✅ |
 | **Quinta**   | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ✅ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ⬜ |
+| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -58,20 +58,20 @@
 - **Notas:**
 
 ### Sexta-feira — 13/11
-- **14h – 15h** →
-- **15h – 16h** → 
-- **16h – 17h** →
-- **17h – 18h** → 
+- **14h – 15h** → Estudei um pouco de RAG e comecei a ler um artigo
+- **15h – 16h** → Fazendo o curso do aluno tutor
+- **16h – 17h** → Fazendo o curso do aluno tutor
+- **17h – 18h** → Grupo de IA
 - **Notas:**
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Fazer o curso da google skills
+- ✅ Participar do Grupo de IA (sexta-feira)
+- ✅ Fazer o curso da google skills
 - ⬜ Terminar o curso do aluno tutor
-- ⬜ Estudar e ler artigos de RAG
+- ✅ Estudar e ler artigos de RAG
 
 ---
 
@@ -82,4 +82,4 @@
 
 ---
 
-*Última atualização: 12/11/2026*
+*Última atualização: 13/11/2026*
