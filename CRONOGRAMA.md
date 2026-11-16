@@ -1,7 +1,7 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **13/11/2026**  
-> Semana: **09/11 → 13/11/2026**
+> Atualizado em: **16/11/2026**  
+> Semana: **16/11 → 20/11/2026**
 
 ---
 
@@ -9,20 +9,19 @@
 
 - Participar do Grupo de IA (Sexta) 
 - Fazer o curso da google skills
-- Fazer o curso do aluno tutor
 - Estudar e ler artigos de RAG
 
 ---
 
 ## 📆 Cronograma de afazeres (14h – 18h)
 
-| Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                  | Status |
-|--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------|------|
-| **Segunda**  |                                         |                                         |                                             |                               | ❌ |
-| **Terça**    | Atividade da prof. Renata               | Atividade da prof. Renata               | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ✅ |
-| **Quarta**   | Pensamento Computacional (início 14h15) | Pensamento Computacional                | Relatório do Pensamento + relatório semanal | Terminar curso do aluno tutor | ✅ |
-| **Quinta**   | Atividade do prof. Marcelo              | Atividade do prof. Marcelo              | Terminar curso do aluno tutor               | Terminar curso do aluno tutor | ✅ |
-| **Sexta**    | Estudar e ler artigos de RAG            | Estudar e ler artigos de RAG            | Grupo de IA(início → 16h30 )                |  Grupo de IA (fim)            | ✅ |
+| Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                       | Status |
+|--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|-----------------------------------|------|
+| **Segunda**  | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ✅ |
+| **Terça**    | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ⬜ |
+| **Quarta**   | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ⬜ |
+| **Quinta**   | Atividade do prof. Matheus              | Atividade do prof. Matheus              | Atividade do prof. Matheus                  | Atividade do prof. Matheus         | ⬜ |
+| **Sexta**    | Feriado                                 | Feriado                                 | Feriado                                     | Feriado                            | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -30,56 +29,55 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Segunda-feira — 09/11
-- **14h – 15h45** →                    
-- **15h45 - 16h** →                   
-- **16h – 16h20** →                    
-- **16h20 – 18h** →               
-- **Notas: Fui na formatura do Londrinense tech então sem npi hoje** 
-
-### Terça-feira — 10/11
-- **14h – 15h** → Formatura
-- **15h – 16h** → Formatura
-- **16h – 17h** → Formatura
-- **17h – 18h** → Fazendo a atividade da Renata
+### Segunda-feira — 16/11
+- **14h – 15h45** → Fazendo a lista do Guilherme                  
+- **15h45 - 16h** → Fazendo a lista do Guilherme
+- **16h – 16h20** → Fazendo a lista do Guilherme
+- **16h20 – 18h** → Fazendo a lista do Guilherme
 - **Notas:** 
 
-### Quarta-feira — 11/11
-- **14h – 15h** → Fazendo a atividade da Renata
-- **15h – 16h** → Fazendo a atividade da Renata
-- **16h - 17h** → Fazendo a atividade da Renata
-- **17h – 18h** → Fazendo o curso do aluno tutor
+### Terça-feira — 17/11
+- **14h – 15h** → 
+- **15h – 16h** → 
+- **16h – 17h** → 
+- **17h – 18h** → 
+- **Notas:** 
+
+### Quarta-feira — 18/11
+- **14h – 15h** → 
+- **15h – 16h** → 
+- **16h - 17h** → 
+- **17h – 18h** → 
 - **Notas:**
-### Quinta-feira — 12/11
-- **14h – 15h** → Fazendo atividade do prof. Marcelo
-- **15h – 16h** → Fazendo atividade do prof. Marcelo
-- **16h – 17h** → Fazendo o curso do aluno tutor
-- **17h – 18h** → Fazendo o curso do aluno tutor
+### Quinta-feira — 19/11
+- **14h – 15h** → 
+- **15h – 16h** → 
+- **16h – 17h** → 
+- **17h – 18h** → 
 - **Notas:**
 
-### Sexta-feira — 13/11
-- **14h – 15h** → Estudei um pouco de RAG e comecei a ler um artigo
-- **15h – 16h** → Fazendo o curso do aluno tutor
-- **16h – 17h** → Fazendo o curso do aluno tutor
-- **17h – 18h** → Grupo de IA
+### Sexta-feira — 20/11
+- **14h – 15h** → 
+- **15h – 16h** → 
+- **16h – 17h** → 
+- **17h – 18h** → 
 - **Notas:**
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ✅ Participar do Grupo de IA (sexta-feira)
-- ✅ Fazer o curso da google skills
-- ⬜ Terminar o curso do aluno tutor
-- ✅ Estudar e ler artigos de RAG
+- ⬜ Participar do Grupo de IA (sexta-feira)
+- ⬜ Fazer o curso da google skills
+- ⬜ Estudar e ler artigos de RAG
 
 ---
 
 ## 📌 Observações
 
--
+- Acabei o curso do aluno tutor no final de semana
 -
 
 ---
 
-*Última atualização: 13/11/2026*
+*Última atualização: 16/11/2026*
