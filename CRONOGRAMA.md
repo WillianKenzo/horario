@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **16/11/2026**  
+> Atualizado em: **18/11/2026**  
 > Semana: **16/11 → 20/11/2026**
 
 ---
@@ -19,7 +19,7 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|-----------------------------------|------|
 | **Segunda**  | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ✅ |
 | **Terça**    | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ⬜ |
-| **Quarta**   | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ⬜ |
+| **Quarta**   | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ✅ |
 | **Quinta**   | Atividade do prof. Matheus              | Atividade do prof. Matheus              | Atividade do prof. Matheus                  | Atividade do prof. Matheus         | ⬜ |
 | **Sexta**    | Feriado                                 | Feriado                                 | Feriado                                     | Feriado                            | ⬜ |
 
@@ -37,10 +37,10 @@
 - **Notas:** 
 
 ### Terça-feira — 17/11
-- **14h – 15h** → 
-- **15h – 16h** → 
-- **16h – 17h** → 
-- **17h – 18h** → 
+- **14h – 15h** → Estudando pra prova do prof. Marcelo
+- **15h – 16h** → Estudando pra prova do prof. Marcelo
+- **16h – 17h** → Estudando pra prova do prof. Marcelo
+- **17h – 18h** → Estudando pra prova do prof. Marcelo
 - **Notas:** 
 
 ### Quarta-feira — 18/11
@@ -80,4 +80,4 @@
 
 ---
 
-*Última atualização: 16/11/2026*
+*Última atualização: 18/11/2026*
