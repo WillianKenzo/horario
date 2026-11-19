@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **18/11/2026**  
+> Atualizado em: **19/11/2026**  
 > Semana: **16/11 → 20/11/2026**
 
 ---
@@ -50,10 +50,10 @@
 - **17h – 18h** → Estudando pra prova do prof. Marcelo
 - **Notas:**
 ### Quinta-feira — 19/11
-- **14h – 15h** → 
-- **15h – 16h** → 
-- **16h – 17h** → 
-- **17h – 18h** → 
+- **14h – 15h** → Fazendo a atividade do prof. Matheus  
+- **15h – 16h** → Fazendo a atividade do prof. Matheus  
+- **16h – 17h** → Fazendo a atividade do prof. Matheus  
+- **17h – 18h** → Fazendo a atividade do prof. Matheus  
 - **Notas:**
 
 ### Sexta-feira — 20/11
@@ -80,4 +80,4 @@
 
 ---
 
-*Última atualização: 18/11/2026*
+*Última atualização: 19/11/2026*
