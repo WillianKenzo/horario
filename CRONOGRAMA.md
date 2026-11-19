@@ -37,17 +37,17 @@
 - **Notas:** 
 
 ### Terça-feira — 17/11
-- **14h – 15h** → Estudando pra prova do prof. Marcelo
-- **15h – 16h** → Estudando pra prova do prof. Marcelo
-- **16h – 17h** → Estudando pra prova do prof. Marcelo
-- **17h – 18h** → Estudando pra prova do prof. Marcelo
+- **14h – 15h** →
+- **15h – 16h** →
+- **16h – 17h** →
+- **17h – 18h** →
 - **Notas:** 
 
 ### Quarta-feira — 18/11
-- **14h – 15h** → 
-- **15h – 16h** → 
-- **16h - 17h** → 
-- **17h – 18h** → 
+- **14h – 15h** → Estudando pra prova do prof. Marcelo
+- **15h – 16h** → Estudando pra prova do prof. Marcelo
+- **16h - 17h** → Estudando pra prova do prof. Marcelo
+- **17h – 18h** → Estudando pra prova do prof. Marcelo
 - **Notas:**
 ### Quinta-feira — 19/11
 - **14h – 15h** → 
