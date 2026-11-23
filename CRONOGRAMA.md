@@ -1,7 +1,7 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **19/11/2026**  
-> Semana: **16/11 → 20/11/2026**
+> Atualizado em: **22/11/2026**  
+> Semana: **23/11 → 27/11/2026**
 
 ---
 
@@ -17,11 +17,11 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                       | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|-----------------------------------|------|
-| **Segunda**  | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ✅ |
+| **Segunda**  | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus          | Estudar pra prova do prof. Matheus | ⬜ |
 | **Terça**    | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ⬜ |
-| **Quarta**   | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ✅ |
-| **Quinta**   | Atividade do prof. Matheus              | Atividade do prof. Matheus              | Atividade do prof. Matheus                  | Atividade do prof. Matheus         | ⬜ |
-| **Sexta**    | Feriado                                 | Feriado                                 | Feriado                                     | Feriado                            | ⬜ |
+| **Quarta**   | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata           | Estudar pra prova da prof. Renata  | ⬜ |
+| **Quinta**   | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ⬜ |
+| **Sexta**    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme        | Estudar pra prova do prof. Guilh.  | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -29,34 +29,34 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Segunda-feira — 16/11
+### Segunda-feira — 23/11
 - **14h – 15h45** → Fazendo a lista do Guilherme                  
 - **15h45 - 16h** → Fazendo a lista do Guilherme
 - **16h – 16h20** → Fazendo a lista do Guilherme
 - **16h20 – 18h** → Fazendo a lista do Guilherme
 - **Notas:** 
 
-### Terça-feira — 17/11
+### Terça-feira — 24/11
 - **14h – 15h** →
 - **15h – 16h** →
 - **16h – 17h** →
 - **17h – 18h** →
 - **Notas:** 
 
-### Quarta-feira — 18/11
-- **14h – 15h** → Estudando pra prova do prof. Marcelo
-- **15h – 16h** → Estudando pra prova do prof. Marcelo
-- **16h - 17h** → Estudando pra prova do prof. Marcelo
-- **17h – 18h** → Estudando pra prova do prof. Marcelo
+### Quarta-feira — 25/11
+- **14h – 15h** → 
+- **15h – 16h** → 
+- **16h - 17h** → 
+- **17h – 18h** → 
 - **Notas:**
-### Quinta-feira — 19/11
-- **14h – 15h** → Fazendo a atividade do prof. Matheus  
-- **15h – 16h** → Fazendo a atividade do prof. Matheus  
-- **16h – 17h** → Fazendo a atividade do prof. Matheus  
-- **17h – 18h** → Fazendo a atividade do prof. Matheus  
+### Quinta-feira — 26/11
+- **14h – 15h** → 
+- **15h – 16h** →  
+- **16h – 17h** → 
+- **17h – 18h** → 
 - **Notas:**
 
-### Sexta-feira — 20/11
+### Sexta-feira — 27/11
 - **14h – 15h** → 
 - **15h – 16h** → 
 - **16h – 17h** → 
@@ -75,9 +75,9 @@
 
 ## 📌 Observações
 
-- Acabei o curso do aluno tutor no final de semana
+- 
 -
 
 ---
 
-*Última atualização: 19/11/2026*
+*Última atualização: 22/11/2026*
