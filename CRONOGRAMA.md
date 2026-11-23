@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **22/11/2026**  
+> Atualizado em: **23/11/2026**  
 > Semana: **23/11 → 27/11/2026**
 
 ---
@@ -17,7 +17,7 @@
 
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                       | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|-----------------------------------|------|
-| **Segunda**  | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus          | Estudar pra prova do prof. Matheus | ⬜ |
+| **Segunda**  | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus          | Estudar pra prova do prof. Matheus | ✅ |
 | **Terça**    | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ⬜ |
 | **Quarta**   | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata           | Estudar pra prova da prof. Renata  | ⬜ |
 | **Quinta**   | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ⬜ |
@@ -30,10 +30,10 @@
 ## 📝 Detalhamento Diário (14h – 18h)
 
 ### Segunda-feira — 23/11
-- **14h – 15h45** → Fazendo a lista do Guilherme                  
-- **15h45 - 16h** → Fazendo a lista do Guilherme
-- **16h – 16h20** → Fazendo a lista do Guilherme
-- **16h20 – 18h** → Fazendo a lista do Guilherme
+- **14h – 15h45** → Sergio nos chamou para ver a reunião sobre 
+- **15h45 - 16h** → Estudando pra prova do prof. Matheus
+- **16h – 16h20** → Estudando pra prova do prof. Matheus
+- **16h20 – 18h** → Estudando pra prova do prof. Matheus
 - **Notas:** 
 
 ### Terça-feira — 24/11
@@ -80,4 +80,4 @@
 
 ---
 
-*Última atualização: 22/11/2026*
+*Última atualização: 23/11/2026*
