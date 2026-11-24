@@ -37,8 +37,8 @@
 - **Notas:** 
 
 ### Terça-feira — 24/11
-- **8h – 9h**   → Palestra e pits para convidados do ELI SUMMIT
-- **9h – 10h**  → Palestra e pits para convidados do ELI SUMMIT
+- **8h – 9h**   → Palestra e pits para convidados do ELI SUMIIT
+- **9h – 10h**  → Palestra e pits para convidados do ELI SUMIIT
 - **10h – 11h** → Estudei para a prova do Marcelo
 - **11h – 12h** → Estudei para a prova do Marcelo
 - **Notas:** 
@@ -75,7 +75,7 @@
 
 ## 📌 Observações
 
-- Essa semana, terça, quarta e quinta, o npi foi no período da manhã em razão da realização do ELI SUMMIT em Londrina
+- Essa semana, terça, quarta e quinta, o npi foi no período da manhã em razão da realização do ELI SUMIIT em Londrina
 -
 
 ---
