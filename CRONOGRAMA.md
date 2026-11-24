@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **23/11/2026**  
+> Atualizado em: **24/11/2026**  
 > Semana: **23/11 → 27/11/2026**
 
 ---
@@ -18,7 +18,7 @@
 | Dia          | 14h – 15h                               | 15h – 16h                               | 16h – 17h                                   |  17h – 18h                       | Status |
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|-----------------------------------|------|
 | **Segunda**  | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus          | Estudar pra prova do prof. Matheus | ✅ |
-| **Terça**    | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ⬜ |
+| **Terça**    | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ✅ |
 | **Quarta**   | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata           | Estudar pra prova da prof. Renata  | ⬜ |
 | **Quinta**   | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ⬜ |
 | **Sexta**    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme        | Estudar pra prova do prof. Guilh.  | ⬜ |
@@ -37,10 +37,10 @@
 - **Notas:** 
 
 ### Terça-feira — 24/11
-- **14h – 15h** →
-- **15h – 16h** →
-- **16h – 17h** →
-- **17h – 18h** →
+- **8h – 9h**   → Palestra e pits para convidados do ELI SUMMIT
+- **9h – 10h**  → Palestra e pits para convidados do ELI SUMMIT
+- **10h – 11h** → Estudei para a prova do Marcelo
+- **11h – 12h** → Estudei para a prova do Marcelo
 - **Notas:** 
 
 ### Quarta-feira — 25/11
@@ -75,9 +75,9 @@
 
 ## 📌 Observações
 
-- 
+- Essa semana, terça, quarta e quinta, o npi foi no período da manhã em razão da realização do ELI SUMMIT em Londrina
 -
 
 ---
 
-*Última atualização: 23/11/2026*
+*Última atualização: 24/11/2026*
