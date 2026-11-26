@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **24/11/2026**  
+> Atualizado em: **25/11/2026**  
 > Semana: **23/11 → 27/11/2026**
 
 ---
@@ -8,8 +8,6 @@
 ## 🎯 Objetivos da Semana
 
 - Participar do Grupo de IA (Sexta) 
-- Fazer o curso da google skills
-- Estudar e ler artigos de RAG
 
 ---
 
@@ -37,23 +35,24 @@
 - **Notas:** 
 
 ### Terça-feira — 24/11
-- **8h – 9h**   → Palestra e pits para convidados do ELI SUMIIT
-- **9h – 10h**  → Palestra e pits para convidados do ELI SUMIIT
+- **8h – 9h**   → Palestra e pits para convidados do ELI SUMMIT
+- **9h – 10h**  → Palestra e pits para convidados do ELI SUMMIT
 - **10h – 11h** → Estudei para a prova do Marcelo
 - **11h – 12h** → Estudei para a prova do Marcelo
 - **Notas:** 
 
 ### Quarta-feira — 25/11
-- **14h – 15h** → 
-- **15h – 16h** → 
-- **16h - 17h** → 
-- **17h – 18h** → 
+- **8h – 9h**   → Palestra e pits para convidados do ELI SUMMIT
+- **9h – 10h**  → Palestra e pits para convidados do ELI SUMMIT
+- **10h – 11h** → Estudei para a prova da Renata
+- **11h – 12h** → Estudei para a prova da Renata
 - **Notas:**
+  
 ### Quinta-feira — 26/11
-- **14h – 15h** → 
-- **15h – 16h** →  
-- **16h – 17h** → 
-- **17h – 18h** → 
+- **8h – 9h**   → 
+- **9h – 10h**  → 
+- **10h – 11h** → 
+- **11h – 12h** → 
 - **Notas:**
 
 ### Sexta-feira — 27/11
@@ -68,8 +67,6 @@
 ## ✅ Checklist da Semana
 
 - ⬜ Participar do Grupo de IA (sexta-feira)
-- ⬜ Fazer o curso da google skills
-- ⬜ Estudar e ler artigos de RAG
 
 ---
 
@@ -80,4 +77,4 @@
 
 ---
 
-*Última atualização: 24/11/2026*
+*Última atualização: 25/11/2026*
