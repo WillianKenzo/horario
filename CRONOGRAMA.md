@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **25/11/2026**  
+> Atualizado em: **26/11/2026**  
 > Semana: **23/11 → 27/11/2026**
 
 ---
@@ -17,8 +17,8 @@
 |--------------|-----------------------------------------|-----------------------------------------|---------------------------------------------|-----------------------------------|------|
 | **Segunda**  | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus      | Estudar pra prova do prof. Matheus          | Estudar pra prova do prof. Matheus | ✅ |
 | **Terça**    | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ✅ |
-| **Quarta**   | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata           | Estudar pra prova da prof. Renata  | ⬜ |
-| **Quinta**   | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ⬜ |
+| **Quarta**   | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata           | Estudar pra prova da prof. Renata  | ✅ |
+| **Quinta**   | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ✅ |
 | **Sexta**    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme        | Estudar pra prova do prof. Guilh.  | ⬜ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -49,10 +49,10 @@
 - **Notas:**
   
 ### Quinta-feira — 26/11
-- **8h – 9h**   → 
-- **9h – 10h**  → 
-- **10h – 11h** → 
-- **11h – 12h** → 
+- **8h – 9h**   → Palestra e pits para convidados do ELI SUMMIT
+- **9h – 10h**  → Palestra e pits para convidados do ELI SUMMIT
+- **10h – 11h** → Fazendo lista do Guilherme
+- **11h – 12h** → Fazendo lista do Guilherme
 - **Notas:**
 
 ### Sexta-feira — 27/11
@@ -77,4 +77,4 @@
 
 ---
 
-*Última atualização: 25/11/2026*
+*Última atualização: 26/11/2026*
