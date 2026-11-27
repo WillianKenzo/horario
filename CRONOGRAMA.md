@@ -1,6 +1,6 @@
 # 📅 Cronograma Semanal de afazeres no NPI(14h às 18h)
 
-> Atualizado em: **26/11/2026**  
+> Atualizado em: **27/11/2026**  
 > Semana: **23/11 → 27/11/2026**
 
 ---
@@ -19,7 +19,7 @@
 | **Terça**    | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo      | Estudar pra prova do prof. Marcelo          | Estudar pra prova do prof. Marcelo | ✅ |
 | **Quarta**   | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata       | Estudar pra prova da prof. Renata           | Estudar pra prova da prof. Renata  | ✅ |
 | **Quinta**   | Lista do Guilherme                      | Lista do Guilherme                      | Lista do Guilherme                          | Lista do Guilherme                 | ✅ |
-| **Sexta**    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme        | Estudar pra prova do prof. Guilh.  | ⬜ |
+| **Sexta**    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme    | Estudar pra prova do prof. Guilherme        | Estudar pra prova do prof. Guilh.  | ✅ |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -56,17 +56,17 @@
 - **Notas:**
 
 ### Sexta-feira — 27/11
-- **14h – 15h** → 
-- **15h – 16h** → 
-- **16h – 17h** → 
-- **17h – 18h** → 
-- **Notas:**
+- **14h – 15h** → Estudando pra prova do prof. Guilherme
+- **15h – 16h** → Estudando pra prova do prof. Guilherme
+- **16h – 17h** → Estudando pra prova do prof. Guilherme
+- **17h – 18h** → Estudando pra prova do prof. Guilherme
+- **Notas: Hoje não teve grupo de IA porque já entraram em recesso **
 
 ---
 
 ## ✅ Checklist da Semana
 
-- ⬜ Participar do Grupo de IA (sexta-feira)
+- ❌ Participar do Grupo de IA (sexta-feira)
 
 ---
 
@@ -77,4 +77,4 @@
 
 ---
 
-*Última atualização: 26/11/2026*
+*Última atualização: 27/11/2026*
